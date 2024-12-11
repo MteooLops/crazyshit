@@ -100,7 +100,7 @@ img:hover {
 
 #title {
     font-size: 35px;
-    color: black;
+    background-color: gray;
     position: relative;
     margin: 15px;
     text-align: left;
